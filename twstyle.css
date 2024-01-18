@@ -1,0 +1,47 @@
+.hero {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(000, 000, 000, 0.82) 0%,
+      rgba(000, 000, 000, 0)
+    ),
+    url('./bg.jpg') !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+*,
+*::before,
+*::after {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.brand {
+  color: #fff;
+  letter-spacing: 1px !important;
+  line-height: 0.95 !important;
+  font-size: 2rem;
+}
+
+.team-message {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(000, 000, 000, 0.52) 0%,
+      rgba(000, 000, 000, 0)
+    ),
+    url('./section-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.team-message-bg {
+  background-color: rgba(0, 0, 0, 75%);
+}
+
+.esri-ui {
+  visibility: hidden;
+}

@@ -1,0 +1,42 @@
+nav {
+  color: #28b5b5 !important;
+}
+
+body,
+base-bg {
+  background-color: #eef6eb !important;
+}
+
+.park-title {
+  color: #519259 !important;
+}
+.page-heading {
+  color: #4b778d !important;
+}
+
+.nav-active {
+  color: rgba(23, 110, 110, 0.603) !important;
+  font-weight: bold !important;
+}
+
+header h1 {
+  font-family: 'Notable', sans-serif;
+  color: #28b5b5 !important;
+}
+
+.card-heading {
+  color: #519259 !important;
+}
+
+.side-bar {
+  background-color: #28b5b5 !important;
+  color: #fff !important;
+}
+
+footer {
+  background-color: #4b778d !important;
+}
+
+.yl-btn {
+  background-color: #f8d310;
+}
